@@ -5,5 +5,5 @@ Solution: Min,Max,Avg & SD calculated in one pass. File or Data not stored in me
 
 Running Standard Deviation calculated using Welford Algorithm. 
 
-Standard Deviation Values: Verified.
+Standard Deviation Results: Verified.
 
