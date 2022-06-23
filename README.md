@@ -1,2 +1,2 @@
-# synopsystask
+# ReadMe
 Synopsys Task
