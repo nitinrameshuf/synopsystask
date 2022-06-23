@@ -1,2 +1,2 @@
 # ReadMe
-Synopsys Task
+Author: Nitin Ramesh
